@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nopeat Kalenteritapahtumat</string>
+    <string name="cancel">Peruuta</string>
+    <string name="create_event_message">Lisää tapahtumaviesti</string>
+    <string name="ok">OK</string>
+    <string name="select_date_first">Valitse päivämäärä ensin!</string>
+    <string name="select_time_first">Valitse kellonaika ensin!</string>
+    <string name="write_message_first">Kirjoita tapahtumaviesti ensin!</string>
+    <string name="ready">Valmis</string>
+    <string name="select_date">Valitse päivämäärä</string>
+    <string name="select_time">Valitse kellonaika</string>
+    <string name="write_message">Kirjoita tapahtumaviesti</string>
+    <string name="date_">"Päivämäärä: "</string>
+    <string name="time_">"Kellonaika: "</string>
+</resources>

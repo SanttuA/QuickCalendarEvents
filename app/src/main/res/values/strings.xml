@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quick Calendar Events</string>
+    <string name="create_event_message">Create Event Message</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_date_first">Select Date First!</string>
+    <string name="select_time_first">Select Time First!</string>
+    <string name="write_message_first">Write Message First!</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time</string>
+    <string name="write_message">Write Message</string>
+    <string name="ready">Ready</string>
+    <string name="date_">Date:</string>
+    <string name="time_">Time:</string>
+</resources>
